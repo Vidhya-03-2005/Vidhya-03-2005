@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Vidhyalakshmi R
 
-<!--
-**Vidhya-03-2005/Vidhya-03-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+AI/ML • Data Science • Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I am an Artificial Intelligence and Data Science undergraduate
+with hands-on experience in Python, Machine Learning,
+Data Analysis and Full-Stack Development.
+
+I enjoy building practical, data-driven applications
+using AI and modern web technologies.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Agri-Verse AI
+AI-powered farmer assistance platform.
+
+### 🤖 AI Student Monitoring System
+AI-powered student performance monitoring system.
+
+---
+
+## 🛠️ Tech Stack
+
+Python • SQL • Flask • MongoDB • HTML • CSS • JavaScript  
+Pandas • NumPy • Scikit-learn • TensorFlow • PySpark  
+Git • GitHub • Tableau • Power BI
+
+---
+
+## 📫 Connect With Me
+
+GitHub | LinkedIn | Email
