@@ -67,3 +67,57 @@ AI and modern web technologies.
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌾 Agri-Verse AI
+**AI-Powered Farmer Assistance Platform**
+
+AI-powered agriculture platform combining weather updates,
+crop price prediction, crop disease detection, rain prediction
+and wildlife detection.
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge">
+
+<br><br>
+
+<a href="https://github.com/Vidhya-03-2005?tab=repositories">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-8A2BE2?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 AI Student Monitoring System
+**Machine Learning Based Student Performance Analysis**
+
+Full-stack AI application for student performance prediction,
+risk identification, authentication, filtering and interactive
+data visualization.
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/Vidhya-03-2005?tab=repositories">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-8A2BE2?style=for-the-badge">
+</a>
+
+</div>
