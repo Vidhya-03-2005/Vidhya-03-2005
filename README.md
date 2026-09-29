@@ -58,7 +58,9 @@ AI and modern web technologies.
 
 ### 📊 Data & Big Data
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" height="45"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
