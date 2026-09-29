@@ -32,3 +32,36 @@ Data Analysis and Full-Stack Development.
 
 I enjoy building practical, data-driven applications using
 AI and modern web technologies.
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="45"/>
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" height="45"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/>
+</p>
+
+### 📊 Data & Big Data
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" height="45"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45"/>
+</p>
