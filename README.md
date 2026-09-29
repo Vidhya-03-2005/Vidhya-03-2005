@@ -204,3 +204,22 @@ LLMs & Agentic AI
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhya-03-2005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+---
+
+---
+
+## 💫 What I Do
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Data+Science+%7C+AI%2FML+Developer;Full+Stack+Developer;Building+Practical+AI+Applications" />
+
+</div>
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vidhya-03-2005&theme=tokyonight&hide_border=true" />
+
+</div>
