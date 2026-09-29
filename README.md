@@ -121,3 +121,75 @@ data visualization.
 </a>
 
 </div>
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+### 🧠 Infosys Springboard
+**Artificial Intelligence Intern**
+
+📅 November 2025 – January 2026
+
+AI-powered platform for analyzing car lease and loan offers,
+real-time market prices and negotiation insights.
+
+**Focus Areas**
+
+`Python` `AI/ML` `Real-Time APIs` `Data Analytics`
+
+---
+
+### 💻 Virtual Tech Services
+**ML Full Stack Intern**
+
+📅 May 2026
+
+Developed an AI-powered student monitoring application
+using Machine Learning and Full-Stack technologies.
+
+**Focus Areas**
+
+`Python` `Flask` `Machine Learning` `MongoDB`
+`Pandas` `NumPy` `JavaScript`
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACITE-Python%20%26%20Programming-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/NPTEL-Natural%20Language%20Processing-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Great%20Learning-Prompt%20Engineering-00A86B?style=for-the-badge">
+<img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence-052FAD?style=for-the-badge">
+
+</div>
+
+---
+
+## 🌟 Achievements
+
+- 🏆 Participated in an inter-college Hackathon at Saveetha Engineering College
+- 🎤 Presented a technical project at the Department Project Expo
+- 📄 Presented a research paper at the Department Conference
+- 💻 Coordinated and managed a Hackathon during the Department Symposium
+- 🥇 Secured a prize of ₹1,700 in a Non-Technical Treasure Hunt
+
+---
+
+## 💡 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Science
+Full Stack Development
+Generative AI
+LLMs & Agentic AI
